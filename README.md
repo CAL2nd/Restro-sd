@@ -11,9 +11,9 @@ This is an online food menu service for Restore Cafe. When you visit the restaur
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-restro.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://restro-sd-frontend.charleslofton.repl.co) here!!
 
-Check out [API LIVE DEMO](https://backend-restro.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://restro-sd-backend.charleslofton.repl.co) here!!
 
 ## Tech used
 
